@@ -1,8 +1,8 @@
 
-#About
-Author: Uchechukwu Anya
-Email address: uchxx98@gmail.com
-LinkedIn address: https://www.linkedin.com/in/uchechukwu-anya-0b49a0167
+
+- Author: Uchechukwu Anya
+- Email address: uchxx98@gmail.com
+- LinkedIn address: https://www.linkedin.com/in/uchechukwu-anya-0b49a0167
 
 
 
